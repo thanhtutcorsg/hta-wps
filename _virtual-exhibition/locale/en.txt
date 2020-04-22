@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = INfineon VR
+
+## Media
+
+### Title
+panorama_4AF1D4E0_4171_2BEA_419A_5D2B928B36EA.label = Lift Lobby
+panorama_4B0F546D_4177_2AFA_41C8_A1A8CD0667E8.label = Outdoor
+panorama_4BE0CD20_4170_DA6A_41AB_021541381CFB.label = Pantry
+panorama_4BE4CB7F_4177_3ED6_41AA_43EA33EA55BC.label = Entrance
+panorama_4BF4E6B7_4173_7656_41A5_02145DA623F8.label = Main
+
+## Popup
+
+### Body
+htmlText_6A584C46_7AC6_4F97_41D9_154A429E42A6.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>

@@ -1,0 +1,21 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: About
+    url: /about/
+  - title: Ces Address
+    url: /ces-address/
+  - title: Year In Review
+    url: /year-in-review/
+  - title: Others
+    url: /others/
+  - title: Virtual Exhibition
+    collection: virtual-exhibition

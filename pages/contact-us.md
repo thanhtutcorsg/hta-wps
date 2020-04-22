@@ -2,31 +2,33 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Home Team Academy
 locations:
   - title: Main Office
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - 501 Old Choa Chu Kang Road
+        - Singapore 698928
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://goo.gl/maps/nV34TyYGKHTC34XY6
 contacts:
-  - title: General Enquiries & Feedback
+  - title: For Police National Servicemen (NS) Matters
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
+    - phone: 1800 367 6767 (1800-eNSNSNS)
+    - email: contact@ns.sg
     - other: Any text here <i>including HTML</i>
-  - title: Careers
+  - title: For Quality Service Matters
     content:
-    - email: careers@abc.gov.sg
+    - contact person: Ms Tay Lu Ling (Quality Service Manager)	
+    - phone: +65 6465 3487
+    - email: Tay_Lu_Ling@mha.gov.sg
+  - title: For Corporate-related Matters
+    content:
+    - contact person: Ms Leena Rajan (Corporate Communications & Relations)	
+    - phone: +65 6465 3527
+    - email: Leena_Rajan@mha.gov.sg	
 ---

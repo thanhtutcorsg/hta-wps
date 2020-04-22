@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
+        title: Workplan Seminar 2020
         subtitle: Hero subtitle
         background: /images/hero-banner-1.png
         button: Contact Us

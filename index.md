@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: HTA Workplan Seminar 2020
+description: HTA Workplan Seminar 2020
+image: /images/hta-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:

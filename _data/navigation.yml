@@ -4,18 +4,14 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/hta-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About
-    url: /about/
-  - title: Ces Address
-    url: /ces-address/
-  - title: Year In Review
-    url: /year-in-review/
-  - title: Others
-    url: /others/
+  - title: About WPS 20200
+    url: /about-wps-2020/
+  - title: CE's Address
+    url: /ce-address/
+  - title: YIR Video
+    url: /yir-video/
   - title: Virtual Exhibition
     collection: virtual-exhibition

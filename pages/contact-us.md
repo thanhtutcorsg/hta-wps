@@ -22,12 +22,10 @@ contacts:
     - email: contact@ns.sg
   - title: For Quality Service Matters
     content:
-    - other: contact person: Ms Tay Lu Ling (Quality Service Manager)
     - phone: +65 6465 3487
     - email: Tay_Lu_Ling@mha.gov.sg
   - title: For Corporate-related Matters
     content:
-    - other: contact person: Ms Leena Rajan (Corporate Communications & Relations)
     - phone: +65 6465 3527
     - email: Leena_Rajan@mha.gov.sg	
 ---

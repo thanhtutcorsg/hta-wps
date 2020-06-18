@@ -3,15 +3,43 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-
-logo: /images/hta-logo.jpg
+logo: /images/Home2.png
 
 links:
-  - title: About WPS 2020
-    url: /about-wps-2020/
-  - title: CE's Address
-    url: /ce-address/
-  - title: YIR Video
-    url: /yir-video/
-  - title: Virtual Exhibition
-    collection: virtual-exhibition
+  - title: Home
+    url: /
+  - title: Home Team Academy Workplans
+    url: /HTA_Workplans/
+    sublinks:
+      - title: HTA Transformation Framework
+        url: /HTA_Workplans/HTA Transformation Framework/
+      - title: Good & Effective Learning at HTA
+        url: /HTA_Workplans/Good & Effective Learning at HTA/
+      - title: Technology-Enabled & Digitalised HTA
+        url: /HTA_Workplans/Technology-Enabled & Digitalised HTA/
+      - title: HEART of HTA
+        url: /HTA_Workplans/HEART of HTA/
+      - title: Partners Like U Strengthen Us
+        url: /HTA_Workplans/Partners Like U Strengthen Us/
+  - title: Home Team Departments' Training & Learning Initiatives
+    url: /Home Team Department & Learning Initiatives/
+    sublinks:
+      - title: Training & Competency Development Division
+        url: /Home Team Department & Learning Initiatives/Training & Competency Development Division/
+      - title: Singapore Police Force
+        url: 	/Home Team Department & Learning Initiatives/Singapore Police Force/
+      - title: Singapore Civil Defence Force
+        url: /Home Team Department & Learning Initiatives/Singapore Civil Defence Force/
+      - title: Immigration & Checkpoints Authority
+        url: /Home Team Department & Learning Initiatives/Immigration & Checkpoints Authority/
+      - title: Singapore Prison Service
+        url: 	/Home Team Department & Learning Initiatives/Singapore Prison Service/
+      - title: Central Narcotics Bureau
+        url: /Home Team Department & Learning Initiatives/Central Narcotics Bureau/
+      - title: Home Team Science and Technology Agency
+        url: /Home Team Department & Learning Initiatives/Home Team Science and Technology Agency/
+      - title: Home Team Behavioural Sciences Centre
+        url: /Home Team Department & Learning Initiatives/Home Team Behavioural Sciences Centre/
+  - title: Contact Us
+    url: /contact-us/
+  

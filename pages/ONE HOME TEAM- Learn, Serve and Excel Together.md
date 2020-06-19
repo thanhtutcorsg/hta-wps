@@ -17,12 +17,12 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
 }
 .htaiconhead{
   width:100%;
-  float: left;
   padding: 1% 5%;
   height: auto;
 }
 .htaicon{
   width:50%;
+  float: left;
   padding: 1% 5%;
   height: auto;
 }

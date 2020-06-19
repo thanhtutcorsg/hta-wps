@@ -30,7 +30,7 @@ permalink: /contact-us
                     <div class="col is-8">
                         <p>
                             If you have a query or feedback, please fill in the 
-							<a href="https://www.form.gov.sg/#!/forms/stb/5b963c488b1385000fd04b78" target="_blank"><u>online form</u></a>.
+							<a href="https://form.gov.sg/5eeb0b41a12f8f0011e0e836" target="_blank"><u>online form</u></a>.
                         </p>
                     </div>
                 </div>

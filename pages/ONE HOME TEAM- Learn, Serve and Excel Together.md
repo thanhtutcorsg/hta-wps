@@ -72,7 +72,6 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
     
   </div>
 </div>
-<br>
 <div class="bp-section bg-hero-bottom sections">
   <div class="headers">
     <h4 style="color:#fff;">Growing from Strength to Strength with the Home Team Training & Learning Community</h4>

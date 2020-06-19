@@ -55,16 +55,16 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
         <img src="images/workplan/Heart Gem Banner.jpeg" class="allimg">
     </a>
     <a href="/HTA_Workplans/Good & Effective Learning at HTA/" class="htaicon" style="padding:0 0 0 5%">
-        <img src="images/workplan/GEL @ HTA.jpeg" class="allimg">
+        <img src="images/workplan/GEL @ HTA.png" class="allimg">
     </a>
     <a href="/HTA_Workplans/Technology-Enabled & Digitalised HTA/" class="htaicon" style="padding:0 5% 0 0">
-        <img src="images/workplan/TED @ HTA.jpeg" class="allimg">
+        <img src="images/workplan/TED @ HTA.png" class="allimg">
     </a>
     <a href="/HTA_Workplans/HEART of HTA/" class="htaicon" style="padding:0 0 0 5%">
-        <img src="images/workplan/HEART @ HTA.jpeg" class="allimg">
+        <img src="images/workplan/HEART @ HTA.png" class="allimg">
     </a>
     <a href="/HTA_Workplans/Partners Like U Strengthen Us/" class="htaicon" style="padding:0 5% 0 0">
-        <img src="images/workplan/PLUS @ HTA.jpeg" class="allimg">
+        <img src="images/workplan/PLUS @ HTA.png" class="allimg">
     </a>
   </div>
 </div>

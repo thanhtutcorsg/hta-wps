@@ -22,6 +22,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
 }
 .htaicon{
   width:50%;
+  padding: 0 5%;
   float: left;
   height: auto;
 }

@@ -26,6 +26,11 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
   float: left;
   height: auto;
 }
+.workplan{
+   padding: 0 15%;
+   width: 100%;
+   overflow: hidden;
+   }
  .allimg{
    width:100%;
 }
@@ -36,10 +41,16 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
     background: {{site.colors.secondary-color}};
     color:#fff;
   }
+
  @media screen and (max-width: 960px){
 	.icon{
 	  	width:50%;
 	}
+	.workplan{
+	   padding: 0 0;
+	   width: 100%;
+	   overflow: hidden;
+	   }
 }
 </style>
 
@@ -55,7 +66,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
       <a href="/HTA_Workplans/HTA Transformation Framework/" class="htaiconhead">
         <img src="images/workplan/Heart Gem Banner.jpeg" class="allimg">
     </a>
-    <div style="    padding: 0 15%;width: 100%;overflow: hidden;">
+    <div class="workplan">
          <a href="/HTA_Workplans/Good & Effective Learning at HTA/" class="htaicon">
         	<img src="images/workplan/GEL @ HTA.png" class="allimg">
     	 </a>

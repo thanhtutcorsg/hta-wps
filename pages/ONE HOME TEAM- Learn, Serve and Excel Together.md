@@ -15,7 +15,18 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
   padding: 1% 5%;
   height: auto;
 }
-.icon img{
+.htaiconhead{
+  width:100%;
+  float: left;
+  padding: 1% 5%;
+  height: auto;
+}
+.htaicon{
+  width:50%;
+  padding: 1% 5%;
+  height: auto;
+}
+ .allimg{
    width:100%;
 }
 .headers{
@@ -41,20 +52,20 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
     <h3>Home Team Academy <br> Workplans</h3>
   </div>
   <div>
-      <a href="/HTA_Workplans/HTA Transformation Framework/" class="icon">
-        <img src="images/workplan/framework.jpg">
+      <a href="/HTA_Workplans/HTA Transformation Framework/" class="htaiconhead">
+        <img src="images/workplan/Heart Gem Banner.jpeg" class="allimg">
     </a>
-    <a href="/HTA_Workplans/Good & Effective Learning at HTA/" class="icon">
-        <img src="images/workplan/gel.jpg">
+    <a href="/HTA_Workplans/Good & Effective Learning at HTA/" class="htaicon">
+        <img src="images/workplan/GEL @ HTA.jpeg" class="allimg">
     </a>
-    <a href="/HTA_Workplans/Technology-Enabled & Digitalised HTA/" class="icon">
-        <img src="images/workplan/ted.jpg">
+    <a href="/HTA_Workplans/Technology-Enabled & Digitalised HTA/" class="htaicon">
+        <img src="images/workplan/TED @ HTA.jpeg" class="allimg">
     </a>
-    <a href="/HTA_Workplans/HEART of HTA/" class="icon">
-        <img src="images/workplan/heart.jpg">
+    <a href="/HTA_Workplans/HEART of HTA/" class="htaicon">
+        <img src="images/workplan/HEART @ HTA.jpeg" class="allimg">
     </a>
-    <a href="/HTA_Workplans/Partners Like U Strengthen Us/" class="icon">
-        <img src="images/workplan/plus.jpg">
+    <a href="/HTA_Workplans/Partners Like U Strengthen Us/" class="htaicon">
+        <img src="images/workplan/PLUS @ HTA.jpeg" class="allimg">
     </a>
   </div>
 </div>
@@ -78,28 +89,28 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
   </div>
   <div>
     <a href="/Home Team Department & Learning Initiatives/Training & Competency Development Division/" class="icon">
-        <img src="images/logo/MHQ.png">
+        <img src="images/logo/MHQ.png" class="allimg">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Singapore Police Force/" class="icon">
-        <img src="images/logo/SPF.png">
+        <img src="images/logo/SPF.png" class="allimg">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Singapore Civil Defence Force/" class="icon">
-        <img src="images/logo/SCDF.png">
+        <img src="images/logo/SCDF.png" class="allimg">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Immigration & Checkpoints Authority/" class="icon">
-        <img src="images/logo/ICA.png">
+        <img src="images/logo/ICA.png" class="allimg">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Singapore Prison Service/" class="icon">
-        <img src="images/logo/SPS.png">
+        <img src="images/logo/SPS.png" class="allimg">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Central Narcotics Bureau/" class="icon">
-        <img src="images/logo/CNB.png">
+        <img src="images/logo/CNB.png" class="allimg">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Home Team Science and Technology Agency/" class="icon">
-        <img src="images/logo/HTX.png">
+        <img src="images/logo/HTX.png" class="allimg">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Home Team Behavioural Sciences Centre/" class="icon">
-        <img src="images/logo/HTBSC.png">
+        <img src="images/logo/HTBSC.png" class="allimg">
     </a>
   </div>
 </div>

@@ -5,7 +5,7 @@ permalink: /CE_Address
 Dear Home Team colleagues and valued partners,
 <br><br>
 On behalf of the Home Team Academy (HTA), I would like to thank you for taking time to view our Workplan Seminar 2020 microsite.  
-<br><br>
+<br>
 The ongoing Coronavirus Disease 2019 (COVID-19) situation has reinforced the need for us to always be prepared in a volatile, uncertain, complex and ambiguous (VUCA) environment. This is where our investment in training, such as in the areas of crisis management, leadership development, incidence responses and operating as one Home Team (HT), are put to the test. In this regard, the HT and HTA have risen well to the challenges. For example, HTA officers, with the support of our HT counterparts, have provided strong support for the Whole-of-Government (WOG) efforts to manage the spread of COVID-19 since 30 January 2020. We did the extraordinary by being the first government agency to operate a Government Quarantine Facility, housing for relocated migrant workers and a Dormitory Isolation Facility concurrently within HTA’s premises, while playing our role as the Corporate University of the HT. HTA and the HT will continue to drive Training & Learning (T&L) amid a ‘new normal’. 
 <br><br>
 <b><u>HTA’s Achievements in FY2019</u></b>
@@ -28,7 +28,7 @@ HTA will continue to leverage technology and digitalisation as force multipliers
 We will implement the HTA Alumni Engagement Framework to build and sustain relationships with our alumni comprising former HTA officers, participants of key HTA leadership programmes and HT trainers. HTA will also increasingly serve the training needs of WOG leaders in the area of safety and security. We are collaborating with the Civil Service College to develop the WOG Leaders in Enforcement Management Programme, for non-HT agencies to build up their enforcement capabilities.
 <br><br>
 <b><u>Moving forward</u></b>
-<br><br>
+<br>
 It is imperative for the HT training community to continue working closely together to ensure HT officers are equipped to meet evolving operational requirements in a VUCA environment. Second Minister’s quote has indeed reinforced this point that the HT needs to press on in our training and upskilling efforts in order to stay resilient, adaptive and agile. 
 <br><br>
 Thank you for your support for HTA as we continue our journey towards being a Leading Corporate University in Homefront Safety and Security. I wish you an enjoyable read.

@@ -64,7 +64,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
   </div>
   <div>
       <a href="/HTA_Workplans/HTA Transformation Framework/" class="htaiconhead">
-        <img src="images/workplan/Heart Gem Banner.jpeg" class="allimg">
+        <img src="images/workplan/core of hta.png" class="allimg">
     </a>
     <div class="workplan">
          <a href="/HTA_Workplans/Good & Effective Learning at HTA/" class="htaicon">

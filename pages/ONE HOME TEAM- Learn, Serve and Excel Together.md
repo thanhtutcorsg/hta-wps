@@ -59,7 +59,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
          <a href="/HTA_Workplans/Good & Effective Learning at HTA/" class="htaicon">
         	<img src="images/workplan/GEL @ HTA.png" class="allimg">
     	 </a>
-    	<a href="/HTA_Workplans/Technology-Enabled & Digitalised HTA/">
+    	<a href="/HTA_Workplans/Technology-Enabled & Digitalised HTA/" class="htaicon">
         	<img src="images/workplan/TED @ HTA.png" class="allimg">
    	 </a>
    	 <a href="/HTA_Workplans/HEART of HTA/" class="htaicon">

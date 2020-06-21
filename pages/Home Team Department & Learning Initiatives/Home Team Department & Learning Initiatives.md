@@ -48,7 +48,7 @@ permalink: /Home Team Department & Learning Initiatives
 </style>
 <div class="sections">
   <div class="headers">
-    <h3>Home Team Departments' <br> Training and Learning Initiatives</h3>
+    <h3 class="blackcolour">Home Team Departments' <br> Training and Learning Initiatives</h3>
   </div>
   <div>
     <a href="/Home Team Department & Learning Initiatives/Training & Competency Development Division/" class="icon">

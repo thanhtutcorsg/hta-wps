@@ -340,7 +340,7 @@ $desktop: 960px + (2 * $gap) !default;
     	white-space: normal;
 	  }
 .blackcolour{
-   color:#000000;
+   color:#000000 !important;
 }
 @media screen and (min-width: 769px){
 	.col.is-one-quarter, .col.is-one-quarter-tablet {

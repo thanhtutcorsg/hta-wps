@@ -49,7 +49,7 @@ permalink: /HTA_Workplans/Technology-Enabled & Digitalised HTA/
     <div class="row">
       <div class="col is-8 is-offset-2 has-text-centered padding--top--xl padding--bottom--xl has-text-white">
         <h4 class="padding--bottom" style="color:#fff;"><b>Home Team Learning Management System 2.0</b></h4>
-        <a href="https://youtu.be/fiwHoW5ZANA" target="_blank">
+        <a href="https://youtu.be/Wfdj6RhV37c " target="_blank">
           <div class="bp-button is-white is-outlined is-uppercase search-button">
             Watch Here
           </div>

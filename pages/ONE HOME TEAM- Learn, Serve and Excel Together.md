@@ -60,7 +60,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
 <br>
 <div class="sections">
   <div class="headers">
-    <h3 class="blackcolour">Home Team Academy <br> Workplans</h3>
+    <h3 class="blackcolour" style="font-weight: 600;">Home Team Academy <br> Workplans</h3>
   </div>
   <div>
       <a href="/HTA_Workplans/HTA Transformation Framework/" class="htaiconhead">
@@ -98,7 +98,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
 <br>
 <div class="sections">
   <div class="headers">
-    <h3 class="blackcolour">Home Team Departments' <br> Training and Learning Initiatives</h3>
+    <h3 class="blackcolour" style="font-weight: 600;">Home Team Departments' <br> Training and Learning Initiatives</h3>
   </div>
   <div>
     <a href="/Home Team Department & Learning Initiatives/Training & Competency Development Division/" class="icon">

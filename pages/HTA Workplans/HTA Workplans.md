@@ -35,7 +35,36 @@ permalink: /HTA_Workplans
 .button a:hover{
     color:#fff!important;
   }
-@media screen and (max-width: 960px){
+.htaiconhead{
+  width:100%;
+  padding: 1% 5%;
+  height: auto;
+}
+.htaicon{
+  width:50%;
+  padding: 0 5%;
+  float: left;
+  height: auto;
+}
+.workplan{
+   padding: 0 15%;
+   width: 100%;
+   overflow: hidden;
+   }
+.headers{
+   text-align:center;
+ }
+  .bg-hero-bottom {
+    background: {{site.colors.secondary-color}};
+    color:#fff;
+  }
+
+ @media screen and (max-width: 960px){
+	.workplan{
+	   padding: 0 0;
+	   width: 100%;
+	   overflow: hidden;
+	   }
 	.icon{
 	  	width:50%;
 	}
@@ -51,21 +80,24 @@ permalink: /HTA_Workplans
     <h3>Home Team Academy <br> Workplans</h3>
   </div>
   <div>
-    <a href="/HTA_Workplans/HTA Transformation Framework/" class="icon">
-        <img src="images/workplan/framework.jpg">
+      <a href="/HTA_Workplans/HTA Transformation Framework/" class="htaiconhead">
+        <img src="images/workplan/core of hta.png" class="allimg">
     </a>
-    <a href="/HTA_Workplans/Good & Effective Learning at HTA/" class="icon">
-        <img src="images/workplan/gel.jpg">
-    </a>
-    <a href="/HTA_Workplans/Technology-Enabled & Digitalised HTA/" class="icon">
-        <img src="images/workplan/ted.jpg">
-    </a>
-    <a href="/HTA_Workplans/HEART of HTA/" class="icon">
-        <img src="images/workplan/heart.jpg">
-    </a>
-    <a href="/HTA_Workplans/Partners Like U Strengthen Us/" class="icon">
-        <img src="images/workplan/plus.jpg">
-    </a>
+    <div class="workplan">
+         <a href="/HTA_Workplans/Good & Effective Learning at HTA/" class="htaicon">
+        	<img src="images/workplan/GEL @ HTA.png" class="allimg">
+    	 </a>
+    	<a href="/HTA_Workplans/Technology-Enabled & Digitalised HTA/" class="htaicon">
+        	<img src="images/workplan/TED @ HTA.png" class="allimg">
+   	 </a>
+   	 <a href="/HTA_Workplans/HEART of HTA/" class="htaicon">
+        	<img src="images/workplan/HEART @ HTA.png" class="allimg">
+   	 </a>
+    	<a href="/HTA_Workplans/Partners Like U Strengthen Us/" class="htaicon">
+        	<img src="images/workplan/PLUS @ HTA.png" class="allimg">
+    	</a>
+    </div>
+    
   </div>
 </div>
 <br><br>

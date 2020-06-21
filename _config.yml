@@ -5,7 +5,7 @@ favicon: /images/HTA logo.png
 # Site colors
 colors:
   primary-color: '#001f58'
-  secondary-color: '#7494c0'
+  secondary-color: '#001f58'
   media-colors:
     - title: media-color-one
       color: '#6b6b6b'

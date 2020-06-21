@@ -85,7 +85,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
 </div>
 <div class="bp-section bg-hero-bottom sections">
   <div class="headers">
-    <h4 style="color:#fff;">Growing from Strength to Strength with the Home Team Training & Learning Community</h4>
+    <h2 style="color:#fff;">Growing from Strength to Strength with the Home Team Training & Learning Community</h2>
   </div>
   <p>The Home Team (HT)’s operating environment is changing significantly with rapid global developments, advances in technology and 
   demographic changes in our society. We are changing the way we operate to tackle the challenges we face. </p>

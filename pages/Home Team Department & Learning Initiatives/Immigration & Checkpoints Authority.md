@@ -57,7 +57,7 @@ permalink: /Home Team Department & Learning Initiatives/Immigration & Checkpoint
   <img src="/images/ICA/72 HTA Workplan Seminar_ICA-06.jpg">
 
 </div>
-<section class="bg-hero-bottom">
+<section class="bg-hero-bottom" style="overflow:hidden;">
   <div class="">
     <div class="row">   
       <div class="col has-text-centered  has-text-white">
@@ -137,7 +137,7 @@ permalink: /Home Team Department & Learning Initiatives/Immigration & Checkpoint
     </div>
   </div>
 </section>
-<br><br>
+<br>
 <div style="width:100%; text-align:center;">
 	<a class="button" href="/Home Team Department & Learning Initiatives">Back</a>
 </div>

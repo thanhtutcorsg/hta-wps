@@ -3,19 +3,43 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-
-logo: /images/isomer-logo.svg
+logo: /images/Home2.png
 
 links:
+  - title: Home
+    url: /
+  - title: Home Team Academy Workplans
+    url: /HTA_Workplans/
+    sublinks:
+      - title: HTA Transformation Framework
+        url: /HTA_Workplans/HTA Transformation Framework/
+      - title: Good & Effective Learning at HTA
+        url: /HTA_Workplans/Good & Effective Learning at HTA/
+      - title: Technology-Enabled & Digitalised HTA
+        url: /HTA_Workplans/Technology-Enabled & Digitalised HTA/
+      - title: HEART of HTA
+        url: /HTA_Workplans/HEART of HTA/
+      - title: Partners Like U Strengthen Us
+        url: /HTA_Workplans/Partners Like U Strengthen Us/
+  - title: Home Team Departments' Training & Learning Initiatives
+    url: /Home Team Department & Learning Initiatives/
+    sublinks:
+      - title: Training & Competency Development Division
+        url: /Home Team Department & Learning Initiatives/Training & Competency Development Division/
+      - title: Singapore Police Force
+        url: 	/Home Team Department & Learning Initiatives/Singapore Police Force/
+      - title: Singapore Civil Defence Force
+        url: /Home Team Department & Learning Initiatives/Singapore Civil Defence Force/
+      - title: Immigration & Checkpoints Authority
+        url: /Home Team Department & Learning Initiatives/Immigration & Checkpoints Authority/
+      - title: Singapore Prison Service
+        url: 	/Home Team Department & Learning Initiatives/Singapore Prison Service/
+      - title: Central Narcotics Bureau
+        url: /Home Team Department & Learning Initiatives/Central Narcotics Bureau/
+      - title: Home Team Science and Technology Agency
+        url: /Home Team Department & Learning Initiatives/Home Team Science and Technology Agency/
+      - title: Home Team Behavioural Sciences Centre
+        url: /Home Team Department & Learning Initiatives/Home Team Behavioural Sciences Centre/
   - title: Contact Us
     url: /contact-us/
-  - title: About
-    url: /about/
-  - title: Ces Address
-    url: /ces-address/
-  - title: Year In Review
-    url: /year-in-review/
-  - title: Others
-    url: /others/
-  - title: Virtual Exhibition
-    collection: virtual-exhibition
+  

@@ -335,3 +335,16 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+.bp-breadcrumb{
+	display: block;
+    	white-space: normal;
+	  }
+.blackcolour{
+   color:#000000 !important;
+   font-weight: 600;
+}
+@media screen and (min-width: 769px){
+	.col.is-one-quarter, .col.is-one-quarter-tablet {
+	    width: 33%;
+	}
+  }

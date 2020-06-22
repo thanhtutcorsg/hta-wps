@@ -1,16 +1,16 @@
-title: Title
+title: Home Team Academy
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/HTA logo.png
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#001f58'
+  secondary-color: '#001f58'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#6b6b6b'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#3F3D56'
     - title: media-color-three
       color: '#00838f'
     - title: media-color-four
@@ -20,7 +20,7 @@ colors:
 
 
 collections:
-  virtual-exhibition:
+  user-guide:
     output: true
 
 ##################################################################################################################

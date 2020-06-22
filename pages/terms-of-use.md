@@ -6,7 +6,6 @@ permalink: /terms-of-use/
 Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [wps-2020.hta.gov.sg](wps-2020.hta.gov.sg) (henceforth known as "Site"). By accessing and using any part of this Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
 <br>
 <h4>General</h4>
-<br>
 2. These Terms of Use may be changed from time to time. All changes will be posted on this page, and your use of this Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 <br>
 <h4>Proprietary Rights</h4>

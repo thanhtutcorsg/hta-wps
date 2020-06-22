@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 ---
 ### **Terms of Use**
 
-Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [wps-2020.hta.gov.sg] (henceforth known as "Site"). By accessing and using any part of this Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
+Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [wps-2020.hta.gov.sg](wps-2020.hta.gov.sg) (henceforth known as "Site"). By accessing and using any part of this Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
 
 #### **General**
 
@@ -27,10 +27,13 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 #### **Disclaimer of Warranties and Liability**
 
 8. The Contents of this Site are provided on an "as is" basis without warranties of any kind. Without prejudice to the foregoing, HTA does not make any representations or warranties:
+
 (a) as to the accuracy, completeness, reliability, timeliness, currency, quality, non-infringement, title, or fitness for any particular purpose of the Contents of this Site;
+
 (b) that the Contents available through this Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Site and the server is and will be free of all viruses and/or other harmful elements.
-9 HTA shall also not be liable for any damage, loss or expense of any kind arising directly or indirectly from the use of the Site, any inaccuracy or incompleteness in the Contents of the Site, or any errors or omissions in the transmission of the Contents.
-10 HTA shall not be responsible or held accountable in any way for any decision made or action taken by you or any third party in reliance upon the Contents of this Site.
+
+9. HTA shall also not be liable for any damage, loss or expense of any kind arising directly or indirectly from the use of the Site, any inaccuracy or incompleteness in the Contents of the Site, or any errors or omissions in the transmission of the Contents.
+10. HTA shall not be responsible or held accountable in any way for any decision made or action taken by you or any third party in reliance upon the Contents of this Site.
 
 #### **Right of Access**
 

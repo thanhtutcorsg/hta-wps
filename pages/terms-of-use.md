@@ -13,6 +13,7 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 #### **Proprietary Rights**
 
 3 This Site is the official Home Team Academy E-Workplan Seminar 2020 website. It is owned and administered by the Home Team Academy (HTA).
+
 4 The materials located on this Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by HTA.
 
 #### **Privacy Statement**
@@ -22,6 +23,7 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 #### **Restrictions on Use of Contents**
 
 6 Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior permission of HTA. To use any parts of the Contents of this Site, the user must seek permission in writing, stating the Contents for use; intent of use; manner of use; time frame of use and identity of the user. HTA reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
+
 7 Modification of any of the Contents or use of the Contents for any other purpose will be a violation of HTA's copyright and other intellectual property rights. Graphics and images on this Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of HTA.
 
 #### **Disclaimer of Warranties and Liability**
@@ -33,6 +35,7 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 (b) that the Contents available through this Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Site and the server is and will be free of all viruses and/or other harmful elements.
 
 9 HTA shall also not be liable for any damage, loss or expense of any kind arising directly or indirectly from the use of the Site, any inaccuracy or incompleteness in the Contents of the Site, or any errors or omissions in the transmission of the Contents.
+
 10 HTA shall not be responsible or held accountable in any way for any decision made or action taken by you or any third party in reliance upon the Contents of this Site.
 
 #### **Right of Access**
@@ -40,6 +43,12 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 11 HTA reserves all rights to deny or restrict access to this Site to any particular person, or to block access from a particular internet address to this Site, at any time, without ascribing any reasons whatsoever.
 
 #### **Links "from" this Site to other websites**
+
+12 This Site contains hyperlinks to websites which are not maintained by HTA. HTA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyper-links and access to such websites are entirely at your own risk.
+
+13 Hyperlinks to other websites are provided as a convenience to the user. In no circumstances shall HTA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.
+
+#### **Links "to" this Site from other websites**
 
 14 Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.
 

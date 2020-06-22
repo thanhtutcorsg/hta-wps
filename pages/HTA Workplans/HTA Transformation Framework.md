@@ -30,7 +30,7 @@ permalink: /HTA_Workplans/HTA Transformation Framework/
   <img src="/images/HTA Workplan Poster/HTA Transformation Framework/72 HTA Workplan Seminar_HTA-A-01.jpg">
   <img src="/images/HTA Workplan Poster/HTA Transformation Framework/72 HTA Workplan Seminar_HTA-A-02.jpg">
   <img src="/images/HTA Workplan Poster/HTA Transformation Framework/72 HTA Workplan Seminar_HTA-A-03.jpg">
-  <img src="/images/HTA Workplan Poster/HTA Transformation Framework/72 HTA Workplan Seminar_HTA-A-04i.jpg">
+  <img src="/images/HTA Workplan Poster/HTA Transformation Framework/72 HTA Workplan Seminar_HTA-A-04.jpg">
 
 </div>
 <br>

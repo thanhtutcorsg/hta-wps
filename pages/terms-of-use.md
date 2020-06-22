@@ -42,11 +42,16 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 #### **Links "from" this Site to other websites**
 
 14 Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.
+
 15 Linking to the Homepage: You may link to the Homepage of this Site, [upon notifying HTA](https://www.mha.gov.sg/contact-us) in writing.
+
 16 Hyperlinking to an internal page of this Site: You must make a [specific request](https://www.mha.gov.sg/contact-us) for, and secure permission from HTA prior to hyperlinking to, or framing, this Site or any of the Contents, or engaging in similar activities. HTA reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Site or any of the Contents.
+
 17 Your linking to, or your framing of this Site or any of the Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Site or any of the Contents.
+
 18 Under no circumstances shall HTA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites that link to this Site or any of the Contents.
 19 HTA reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+
 20 HTA reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other website reached by links to or from this Site or any of the Contents.
 
 #### **Governing Law**

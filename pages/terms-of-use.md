@@ -64,4 +64,5 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 20 HTA reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other website reached by links to or from this Site or any of the Contents.
 
 #### **Governing Law**
+
 21 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore

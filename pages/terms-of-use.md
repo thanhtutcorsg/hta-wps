@@ -24,9 +24,9 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 <h4>Disclaimer of Warranties and Liability</h4>
 <p>8. The Contents of this Site are provided on an "as is" basis without warranties of any kind. Without prejudice to the foregoing, HTA does not make any representations or warranties:</p>
 
-<p>(a) as to the accuracy, completeness, reliability, timeliness, currency, quality, non-infringement, title, or fitness for any particular purpose of the Contents of this Site;
-<br>
-(b) that the Contents available through this Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Site and the server is and will be free of all viruses and/or other harmful elements.
+<p>(a) as to the accuracy, completeness, reliability, timeliness, currency, quality, non-infringement, title, or fitness for any particular purpose of the Contents of this Site;</p>
+
+<p>(b) that the Contents available through this Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Site and the server is and will be free of all viruses and/or other harmful elements.
 </p>
 <p>9. HTA shall also not be liable for any damage, loss or expense of any kind arising directly or indirectly from the use of the Site, any inaccuracy or incompleteness in the Contents of the Site, or any errors or omissions in the transmission of the Contents.</p>
 
@@ -41,19 +41,19 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 <p>13. Hyperlinks to other websites are provided as a convenience to the user. In no circumstances shall HTA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.</p>
 
 <h4>Links "to" this Site from other websites</h4>
-<p>14. Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.
-<br>
-15. Linking to the Homepage: You may link to the Homepage of this Site, [upon notifying HTA](https://www.mha.gov.sg/contact-us) in writing.
-<br>
-16. Hyperlinking to an internal page of this Site: You must make a [specific request](https://www.mha.gov.sg/contact-us) for, and secure permission from HTA prior to hyperlinking to, or framing, this Site or any of the Contents, or engaging in similar activities. HTA reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Site or any of the Contents.
-<br>
-17. Your linking to, or your framing of this Site or any of the Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Site or any of the Contents.
-<br>
-18. Under no circumstances shall HTA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites that link to this Site or any of the Contents.
-<br>
-19. HTA reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
-<br>
-20. HTA reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other website reached by links to or from this Site or any of the Contents.
+<p>14. Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.</p>
+
+<p>15. Linking to the Homepage: You may link to the Homepage of this Site, [upon notifying HTA](https://www.mha.gov.sg/contact-us) in writing.</p>
+
+<p>16. Hyperlinking to an internal page of this Site: You must make a [specific request](https://www.mha.gov.sg/contact-us) for, and secure permission from HTA prior to hyperlinking to, or framing, this Site or any of the Contents, or engaging in similar activities. HTA reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Site or any of the Contents.</p>
+
+<p>17. Your linking to, or your framing of this Site or any of the Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Site or any of the Contents.</p>
+
+<p>18. Under no circumstances shall HTA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites that link to this Site or any of the Contents.</p>
+
+<p>19. HTA reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.</p>
+
+<p>20. HTA reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other website reached by links to or from this Site or any of the Contents.
 </p>
 <h4>Governing Law</h4>
 <p>21. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore</p>

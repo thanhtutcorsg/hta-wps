@@ -14,7 +14,7 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 <p>4. The materials located on this Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by HTA.</p>
 
 <h4>Privacy Statement</h4>
-<p>5. Click here to review this Site’s <a href="/privacy-statement">Privacy Statement</a>.</p>
+<p>5. Click here to review this Site’s <a href="/privacy">Privacy Statement</a>.</p>
 
 <h4>Restrictions on Use of Contents</h4>
 <p>6. Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior permission of HTA. To use any parts of the Contents of this Site, the user must seek permission in writing, stating the Contents for use; intent of use; manner of use; time frame of use and identity of the user. HTA reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.</p>

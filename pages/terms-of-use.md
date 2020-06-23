@@ -14,7 +14,7 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 <p>4. The materials located on this Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by HTA.</p>
 
 <h4>Privacy Statement</h4>
-<p>5. Click here to review this Site’s <a href="https://www.mha.gov.sg/privacy-statement">Privacy Statement</a>.</p>
+<p>5. Click here to review this Site’s <a href="/privacy-statement">Privacy Statement</a>.</p>
 
 <h4>Restrictions on Use of Contents</h4>
 <p>6. Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior permission of HTA. To use any parts of the Contents of this Site, the user must seek permission in writing, stating the Contents for use; intent of use; manner of use; time frame of use and identity of the user. HTA reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.</p>
@@ -43,9 +43,9 @@ Thank you for visiting the Home Team Academy E-Workplan Seminar 2020 website, [w
 <h4>Links "to" this Site from other websites</h4>
 <p>14. Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.</p>
 
-<p>15. Linking to the Homepage: You may link to the Homepage of this Site, <a href="https://www.mha.gov.sg/contact-us">upon notifying HTA</a> in writing.</p>
+<p>15. Linking to the Homepage: You may link to the Homepage of this Site, <a href="/contact-us">upon notifying HTA</a> in writing.</p>
 
-<p>16. Hyperlinking to an internal page of this Site: You must make a <a href="https://www.mha.gov.sg/contact-us">specific request</a> for, and secure permission from HTA prior to hyperlinking to, or framing, this Site or any of the Contents, or engaging in similar activities. HTA reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Site or any of the Contents.</p>
+<p>16. Hyperlinking to an internal page of this Site: You must make a <a href="/contact-us">specific request</a> for, and secure permission from HTA prior to hyperlinking to, or framing, this Site or any of the Contents, or engaging in similar activities. HTA reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Site or any of the Contents.</p>
 
 <p>17. Your linking to, or your framing of this Site or any of the Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Site or any of the Contents.</p>
 

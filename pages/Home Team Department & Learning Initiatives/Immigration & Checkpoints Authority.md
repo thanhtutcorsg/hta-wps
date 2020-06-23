@@ -35,7 +35,6 @@ permalink: /Home Team Department & Learning Initiatives/Immigration & Checkpoint
 	    width: 100%;
 	    padding: 2% 3%;
 	    height: 200px;
-	    background-color:#7494c0;
   }
 }
 </style>

@@ -22,7 +22,7 @@ colors:
 collections:
   user-guide:
     output: true
-
+google_analytics: UA-170468416-1
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################

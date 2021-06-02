@@ -35,8 +35,8 @@ permalink: /HTA_Workplans/Partners Like U Strengthen Us/
   </div>
 </section>
 <div class="poster">
-  <img src="/images/HTA Workplan Poster/PLUS@HTA/72 HTA Workplan Seminar_HTA-D-06.jpg">
-  <img src="/images/HTA Workplan Poster/PLUS@HTA/72 HTA Workplan Seminar_HTA-D-07.jpg">
+  <img src="/images/HTA-Workplan-Poster/PLUS@HTA/72 HTA Workplan Seminar_HTA-D-06.jpg">
+  <img src="/images/HTA-Workplan-Poster/PLUS@HTA/72 HTA Workplan Seminar_HTA-D-07.jpg">
 
 </div>
 <section class="bg-hero-bottom">

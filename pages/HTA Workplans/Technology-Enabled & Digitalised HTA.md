@@ -35,13 +35,13 @@ permalink: /HTA_Workplans/Technology-Enabled & Digitalised HTA/
   </div>
 </section>
 <div class="poster">
-  <img src="/images/HTA Workplan Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-01i.jpg">
-  <img src="/images/HTA Workplan Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-02.jpg">
-  <img src="/images/HTA Workplan Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-03.jpg">
-  <img src="/images/HTA Workplan Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-04.jpg">
-  <img src="/images/HTA Workplan Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-05.jpg">
-  <img src="/images/HTA Workplan Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-06.jpg">
-  <img src="/images/HTA Workplan Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-07i.jpg">
+  <img src="/images/HTA-Workplan-Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-01i.jpg">
+  <img src="/images/HTA-Workplan-Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-02.jpg">
+  <img src="/images/HTA-Workplan-Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-03.jpg">
+  <img src="/images/HTA-Workplan-Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-04.jpg">
+  <img src="/images/HTA-Workplan-Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-05.jpg">
+  <img src="/images/HTA-Workplan-Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-06.jpg">
+  <img src="/images/HTA-Workplan-Poster/TED@HTA/72 HTA Workplan Seminar_HTA-C-07i.jpg">
 
 </div>
 <section class="bg-hero-bottom">

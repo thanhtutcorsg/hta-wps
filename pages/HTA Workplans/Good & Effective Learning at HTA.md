@@ -27,17 +27,17 @@ permalink: /HTA_Workplans/Good & Effective Learning at HTA/
 </style>
 
 <div class="poster">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-01.jpg">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-02.jpg">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-03.jpg">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-04.jpg">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-05.jpg">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-06.jpg">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-07.jpg">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-08.jpg">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-09.jpg">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-10.jpg">
-  <img src="/images/HTA Workplan Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-11.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-01.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-02.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-03.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-04.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-05.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-06.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-07.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-08.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-09.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-10.jpg">
+  <img src="/images/HTA-Workplan-Poster/GEL@HTA/72 HTA Workplan Seminar_HTA-B-11.jpg">
 </div>
 <br>
 <div style="width:100%; text-align:center;">

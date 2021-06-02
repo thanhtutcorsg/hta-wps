@@ -35,11 +35,11 @@ permalink: /HTA_Workplans/HEART of HTA/
   </div>
 </section>
 <div class="poster">
-  <img src="/images/HTA Workplan Poster/HEART@HTA/72 HTA Workplan Seminar_HTA-D-01.jpg">
-  <img src="/images/HTA Workplan Poster/HEART@HTA/72 HTA Workplan Seminar_HTA-D-02.jpg">
-  <img src="/images/HTA Workplan Poster/HEART@HTA/72 HTA Workplan Seminar_HTA-D-03.jpg">
-  <img src="/images/HTA Workplan Poster/HEART@HTA/72 HTA Workplan Seminar_HTA-D-04.jpg">
-  <img src="/images/HTA Workplan Poster/HEART@HTA/72 HTA Workplan Seminar_HTA-D-05.jpg">
+  <img src="/images/HTA-Workplan-Poster/HEART@HTA/72 HTA Workplan Seminar_HTA-D-01.jpg">
+  <img src="/images/HTA-Workplan-Poster/HEART@HTA/72 HTA Workplan Seminar_HTA-D-02.jpg">
+  <img src="/images/HTA-Workplan-Poster/HEART@HTA/72 HTA Workplan Seminar_HTA-D-03.jpg">
+  <img src="/images/HTA-Workplan-Poster/HEART@HTA/72 HTA Workplan Seminar_HTA-D-04.jpg">
+  <img src="/images/HTA-Workplan-Poster/HEART@HTA/72 HTA Workplan Seminar_HTA-D-05.jpg">
 
 </div>
 <section class="bg-hero-bottom">
